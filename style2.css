@@ -1,0 +1,15 @@
+body{
+    font-family: 'Courier New', Courier, monospace;
+    
+}
+
+h2,h3,h4{
+    text-align: center;
+    font: bold;
+    
+}
+
+a:hover { 
+	text-decoration: double underline; 
+	color: red;
+	}
